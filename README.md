@@ -1,12 +1,12 @@
 <h1>Live Project (C#)</h1>
 
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 
 <hr>
 
 <p>During the last two weeks of my bootcamp with <a href="https://www.learncodinganywhere.com/">The Tech Academy</a>, I was part of a team that worked on an ongoing project, which was a C# MVC Web Application. The purpose of the web app was to create an app, for a theatre company, which made it easier to save and show various areas of it for public viewing and be easy to maintain as shows would change.</p>
 
-<h3>Main Index</h3>
+<h2>Main Index</h2>
 
 <hr>
 
@@ -17,7 +17,7 @@
     
 ![Home-Index](https://user-images.githubusercontent.com/108291876/199376147-47689325-13dc-4f01-b296-744542e40a18.gif)
 
-<h3>Production Model</h3>
+<h2>Production Model</h2>
     
 <hr>
     
@@ -25,7 +25,7 @@
 
   <li><a href="./Media/Code/Model-Production.png">Model Code</li>
 
-<h3>Production Index</h3>
+<h2>Production Index</h2>
     
 <hr>
     
@@ -35,7 +35,7 @@
   <li><a href="./Media/Code/Production-Index-View/">Production Index Code</li>
   <li><a href="./Media/Website/Production-Index/">Production Website View</li>
   
-<h3>CRUD Functions/h3>
+<h2>CRUD Functions/h2>
 
 <hr>
   
@@ -48,7 +48,7 @@
     
   ![Production-IndexEditDelete-View](https://user-images.githubusercontent.com/108291876/199390097-49480af9-1274-40df-b90a-a014a991f350.gif)
 
-<h3>Details Modal</h3>
+<h2>Details Modal</h2>
     
 <hr>
     
@@ -58,7 +58,7 @@
 
   ![Production-DetailsModal-View](https://user-images.githubusercontent.com/108291876/199390025-600bb8c2-3ecc-40d7-9689-bd37f84eb56a.gif)
     
-<h3>Users</h3>
+<h2>Users</h2>
  
 <hr>
 
@@ -66,16 +66,13 @@
 
   <li><a href="./Media/Code/Model-ProductionManager">Production Manager Model Code</li>
   
-<h3>Other Skills Learnt</h3>
+<h2>Other Skills Learnt</h2>
     
 <hr>
   
 <p>This project has giving me the chance to learn some value skills such as:
 
-<li>Working within a team a complete tasks given efficiently
-<li>Utilizing Azure DevOps for:</li>
-  <ul><li>Organizing active and completed user stories</li>
-  <li>Creating push and pull requests to merge with the master branch</li>
-  <li>Creating working branches for version control</li></ul>
-<li>Fixing bugs through research or help from peers</li>
-<li>Familiarising myself more with the Django Framework</li>
+  <li>Working within a team and communicating better to simplify areas for all</li>
+  <li>Learn how to resolve merge conflicts</li>
+  <li>Fixing front-end and baack-end bugs through research or help from peers/supervisor</li>
+  <li>Familiarising myself more with the .NET Framework</li>
