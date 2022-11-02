@@ -9,26 +9,30 @@
 <p>For my first story, I was asked to create the main index that had certain requirements for the layout. A UX designer had provided a template of how it should look too and so this task tested my CSS and Bootstrap knowledge.
   
   <li><a href="./Media/Code/Home-Index-cshtml/">Home Index Code</li>
-  <li><a href="./Media/Code/Home-Index-css/">Home Index CSS Code</li>
+  <li><a href="./Media/Code/Home-Index-css/">Home Index CSS Code</li><br>
     
-    
+![Home-Index](https://user-images.githubusercontent.com/108291876/199376147-47689325-13dc-4f01-b296-744542e40a18.gif)
 
-<h3>Model</h3>
+<h3>Production Model</h3>
 
 <p>The app has 3 areas and our team was given the Production area to work on. On my second story I was tasked to build the database for where the production show details would go. The project used a Code-First approach therefore I was easily able to enter the required properties into a model, who's class was derived from DbContext, and then scaffold a MVC controller with using Entity Framework.</p>
 
-  <li><a href="./Media/Code/Model-Production.png">Production Model Code</li>
+  <li><a href="./Media/Code/Model-Production.png">Model Code</li>
 
- 
-<p>The above image shows the code that I created that allows a user to be able to input an entry into the database and saves it. The model sections shows the fields, the types they are given and limitations as to what is allow to be entered. Through the forms I was able to use widgets for certain fields, the placeholder being an important one to show the user how to enter the time and date the correct way to allow the form to be valid. I've also shown the use the ModelForm and through the meta class how I renamed a field as needed.</p>
+<h3>Production Index</h3>
+
+<p>Within the Production area, a sub-section also call Production was set up. It was felt as more plays would be added, the list may grow fairly long. To help the user a search bar was added so they could query the db entries against the Title property and get a list back accordingly. Also another Paging Function added was the sort by Title. By clicking on the given button, the list of entries was be alphabetised in a decending order.</p>
+
+  <li><a href="./Media/Code/Controller-Production/">Production Controller Index Page</li>
+  <li><a href="./Media/Code/Production-Index-View/">Production Index View Page</li>
   
-![Create](https://user-images.githubusercontent.com/108291876/195746518-3a7f188a-1a71-4a7b-bdd8-62592aa34fff.gif)
+    
+    
+<h3>CRUD Functions/h3>
+  
+<h3>Create/h3>
 
-<h3>Read</h3>
-
-<li><a href="./Media/Model_views2.png">Read Code</li><br>
-
-<p>Through the creation of the two functions shown, the user it able to view a page that contain a list of all the entries added to the SQLite database and, if wanted, by clicking on an individual entry, via the use of a primary key, they can view all the details of that specific entry.</p>
+<p>Once the views had been scaffolded. The next part was styling the CRUD pages so they would look similar to the website. This was aided by given certain colours to work with and being able to work off the style of existing items also. This is where a team member and I came up with the idea to even keep the sub-sections styling the same for where each of us were working on. After agreeing on layout in a team meeting I changed our given area CSS page so classes that could be used across all our pages were given a certain naming convention and rid of classes doing the same styling.</p>
 
 <h3>Update/Delete</h3>
 
