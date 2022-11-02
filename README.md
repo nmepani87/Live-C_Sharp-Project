@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-<p>During my two week internship at Prosper II Consulting, I was part of a team that worked on an ongoing project, which was a C# MVC Web Application. The purpose of the web app was to create an app, for a theatre company, which made it easier to save and show various areas of it for public viewing and be easy to maintain as shows would change.</p>
+<p>During my two week internship at Prosper IT Consulting, I was part of a team that worked on an ongoing project, which was a C# MVC Web Application. The purpose of the web app was to create an app, for a theatre company, which made it easier to save and show various areas of it for public viewing and be easy to maintain as shows would change.</p>
 
 <h2>Main Index</h2>
 
