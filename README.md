@@ -11,7 +11,7 @@
   <li><a href="./Media/Code/Home-Index-cshtml/">Home Index Code</li>
   <li><a href="./Media/Code/Home-Index-css/">Home Index CSS Code</li>
     
-    
+  Home-Index.gif  
 
 <h3>Model</h3>
 
