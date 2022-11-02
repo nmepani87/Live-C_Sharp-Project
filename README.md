@@ -35,7 +35,7 @@
   <li><a href="./Media/Code/Production-Create-View">Production Create Code</li>
   <li><a href="./Media/Code/Production-Edit-View.png">Production Edit Code</li>
   <li><a href="./Media/Code/Production-All-css">Production CSS Code</li>
-  <li><a href="./Media/Code/Production-Create-css.png">Production Create CSS Section</li>
+  <li><a href="./Media/Code/Production-Create-css.png">Production Create CSS Section</li><br>
     
   ![Production-IndexEditDelete-View](https://user-images.githubusercontent.com/108291876/199390097-49480af9-1274-40df-b90a-a014a991f350.gif)  
     
@@ -43,7 +43,7 @@
     
 <p>A pop-up modal was wanted to show the details of the entry upon clicking on its card in the index page, rather than redirection onto a whole new page.This was achieved placing a section in the index cshtml page that would target the details placed in the contents of the modal within the details page. JavaScript was using to help achieve this.</p>
 
-  <li><a href="./Media/Code/Production-Details-View">Production Details Code</li>
+  <li><a href="./Media/Code/Production-Details-View">Production Details Code</li><br>
 
   ![Production-DetailsModal-View](https://user-images.githubusercontent.com/108291876/199390025-600bb8c2-3ecc-40d7-9689-bd37f84eb56a.gif)
 
