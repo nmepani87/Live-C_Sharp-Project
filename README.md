@@ -1,7 +1,7 @@
 <h1>Live Project (C#)</h1>
-
+<hr>
 <h3>Introduction</h3>
-
+<hr>
 <p>During the last two weeks of my bootcamp with <a href="https://www.learncodinganywhere.com/">The Tech Academy</a>, I was part of a team that worked on an ongoing project, which was a C# MVC Web Application. The purpose of the web app was to create an app, for a theatre company, which made it easier to save and show various areas of it for public viewing and be easy to maintain as shows would change.</p>
 
 <h3>Main Index</h3>
@@ -21,19 +21,25 @@
 
 <h3>Production Index</h3>
 
-<p>Within the Production area, a sub-section also call Production was set up. It was felt as more plays would be added, the list may grow fairly long. To help the user a search bar was added so they could query the db entries against the Title property and get a list back accordingly. Also another Paging Function added was the sort by Title. By clicking on the given button, the list of entries was be alphabetised in a decending order.</p>
+<p>Within the Production area, a sub-section also call Production was set up. It was felt as more plays would be added, the list may grow fairly long. To help the user a search bar was added so they could query the db entries against the Title property and get a list back accordingly. Also another Pagination Function added was to sort the list by Title. By clicking on the given button, the list of entries was be alphabetised in a decending order.</p>
 
   <li><a href="./Media/Code/Controller-Production/">Production Controller Index Page</li>
   <li><a href="./Media/Code/Production-Index-View/">Production Index View Page</li>
+  <li><a href="./Media/Website/Production-Index/">Production Website View</li>
   
-    
-    
 <h3>CRUD Functions/h3>
   
 <h3>Create/h3>
 
-<p>Once the views had been scaffolded. The next part was styling the CRUD pages so they would look similar to the website. This was aided by given certain colours to work with and being able to work off the style of existing items also. This is where a team member and I came up with the idea to even keep the sub-sections styling the same for where each of us were working on. After agreeing on layout in a team meeting I changed our given area CSS page so classes that could be used across all our pages were given a certain naming convention and rid of classes doing the same styling.</p>
+<p>The next part was styling the CRUD pages so they would look similar to the website. This was aided by given certain colours to work with and being able to work off the style of existing items also. This is where a team member and I came up with the idea to even keep the sub-sections styling the same for where each of us were working on. After agreeing on layout in a team meeting I changed our given area CSS page so classes that could be used across all our pages were given a certain naming convention and rid of classes doing the same styling. This would help in needing to create less classes through-out the Production section.</p>
 
+  <li><a href="./Media/Code/Production-Create-View">Production Create View Page</li>
+  <li><a href="./Media/Code/Production-All-css">Production CSS Page</li>
+  <li><a href="./Media/Code/Production-Create-css.png">Production Create CSS Section</li>
+    
+    
+    
+    
 <h3>Update/Delete</h3>
 
 <li><a href="./Media/Model_update_delete.png">Update/Delete Code</li><br>
