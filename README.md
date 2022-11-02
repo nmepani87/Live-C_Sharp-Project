@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-<p>During the last two weeks of my bootcamp with <a href="https://www.learncodinganywhere.com/">The Tech Academy</a>, I was part of a team that worked on an ongoing project, which was a C# MVC Web Application. The purpose of the web app was to create an app, for a theatre company, which made it easier to save and show various areas of it for public viewing and be easy to maintain as shows would change.</p>
+<p>During my two week internship at Prosper II Consulting, I was part of a team that worked on an ongoing project, which was a C# MVC Web Application. The purpose of the web app was to create an app, for a theatre company, which made it easier to save and show various areas of it for public viewing and be easy to maintain as shows would change.</p>
 
 <h2>Main Index</h2>
 
@@ -59,5 +59,5 @@
 
   <li>Working within a team and communicating better to simplify areas for all</li>
   <li>Learn how to resolve merge conflicts</li>
-  <li>Fixing front-end and baack-end bugs through research or help from peers/supervisor</li>
+  <li>Fixing front-end and back-end bugs through research or help from peers/supervisor</li>
   <li>Familiarising myself more with the .NET Framework</li>
